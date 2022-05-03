@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @jagoditsh
+ @jagoditsh
 
-- 📫 Reach me at ... jagoditsh@hotmail.com
+-Reach me at ... jagoditsh@hotmail.com
+
